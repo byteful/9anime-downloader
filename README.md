@@ -1,6 +1,7 @@
 # 9anime Downloader
 This app lets you download all the episodes of an anime off of 9anime. <br>
-<h3 color="red">This app has not been designed to be user friendly! I created this for a friend and managed all the inputs through the code.</h3>
+> [!IMPORTANT]
+> ### This app has not been designed to be user friendly! I created this for a friend and managed all the inputs through the code.
 
 You will need technical knowledge with Node.js, JavaScript, and NPM to use this app.
 
@@ -11,4 +12,5 @@ You will need technical knowledge with Node.js, JavaScript, and NPM to use this 
 4. Change the `url` in the `index.js` file to whatever 9anime show you want. Use the context of the current URL to figure out what part of it to set.
 5. Run the app and wait for everything to download into the `downloads` folder.
 
-<p color="blue">This app was created to download Episodes 9-23 from season 2 JJK.</p>
+> [!NOTE]
+> This app was created to download Episodes 9-23 from season 2 JJK so my friend could watch them without internet.
